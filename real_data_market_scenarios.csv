@@ -1,0 +1,9 @@
+Scenario,Accounts,Price,Content,Ads,Utility,Choice_Probability,Appeal_Score
+Premium All,6,$20,HBO,none,0.620303672797331,0.6502876110595645,7
+Disney Premium,4,$15,Disney,none,0.6043065504142991,0.6466409579209105,6
+Marvel Family,6,$18,Marvel,one_per_day,0.6011362053450521,0.6459162090619626,6
+Prime Competitor,3,$10,Prime originals,one_per_show,0.4814043081419877,0.6180794268093838,6
+HBO Standard,2,$12,HBO,one_per_show,0.432911980837336,0.6065688077633328,6
+Sports Package,4,$20,Soccer,none,0.42208996617410655,0.6039832520932847,6
+Current Basic,1,$8,less content,none,0.39383945521112707,0.5972066272881957,6
+Budget Option,1,$8,less content,one_per_day,0.3698484889407912,0.5914223675120636,6

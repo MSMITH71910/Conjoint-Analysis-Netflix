@@ -1,0 +1,1201 @@
+Respondent_ID,Profile_ID,Content,Accounts,Price,Rating
+1,1,Netflix Originals,1,8.99,6
+1,2,Netflix Originals,2,12.99,5
+1,3,Netflix Originals,4,15.99,5
+1,4,Disney,1,19.99,5
+1,5,Disney,2,8.99,5
+1,6,Disney,4,12.99,6
+1,7,HBO,1,15.99,5
+1,8,HBO,2,19.99,4
+1,9,HBO,4,8.99,8
+1,10,Sports,1,12.99,6
+1,11,Sports,2,15.99,5
+1,12,Sports,4,19.99,7
+2,1,Netflix Originals,1,8.99,4
+2,2,Netflix Originals,2,12.99,7
+2,3,Netflix Originals,4,15.99,4
+2,4,Disney,1,19.99,3
+2,5,Disney,2,8.99,8
+2,6,Disney,4,12.99,5
+2,7,HBO,1,15.99,5
+2,8,HBO,2,19.99,2
+2,9,HBO,4,8.99,5
+2,10,Sports,1,12.99,5
+2,11,Sports,2,15.99,6
+2,12,Sports,4,19.99,4
+3,1,Netflix Originals,1,8.99,5
+3,2,Netflix Originals,2,12.99,4
+3,3,Netflix Originals,4,15.99,5
+3,4,Disney,1,19.99,6
+3,5,Disney,2,8.99,8
+3,6,Disney,4,12.99,6
+3,7,HBO,1,15.99,4
+3,8,HBO,2,19.99,5
+3,9,HBO,4,8.99,8
+3,10,Sports,1,12.99,5
+3,11,Sports,2,15.99,4
+3,12,Sports,4,19.99,4
+4,1,Netflix Originals,1,8.99,4
+4,2,Netflix Originals,2,12.99,6
+4,3,Netflix Originals,4,15.99,2
+4,4,Disney,1,19.99,6
+4,5,Disney,2,8.99,7
+4,6,Disney,4,12.99,6
+4,7,HBO,1,15.99,5
+4,8,HBO,2,19.99,3
+4,9,HBO,4,8.99,7
+4,10,Sports,1,12.99,5
+4,11,Sports,2,15.99,7
+4,12,Sports,4,19.99,4
+5,1,Netflix Originals,1,8.99,4
+5,2,Netflix Originals,2,12.99,4
+5,3,Netflix Originals,4,15.99,4
+5,4,Disney,1,19.99,4
+5,5,Disney,2,8.99,7
+5,6,Disney,4,12.99,7
+5,7,HBO,1,15.99,5
+5,8,HBO,2,19.99,3
+5,9,HBO,4,8.99,7
+5,10,Sports,1,12.99,5
+5,11,Sports,2,15.99,4
+5,12,Sports,4,19.99,4
+6,1,Netflix Originals,1,8.99,5
+6,2,Netflix Originals,2,12.99,5
+6,3,Netflix Originals,4,15.99,5
+6,4,Disney,1,19.99,5
+6,5,Disney,2,8.99,9
+6,6,Disney,4,12.99,8
+6,7,HBO,1,15.99,6
+6,8,HBO,2,19.99,5
+6,9,HBO,4,8.99,8
+6,10,Sports,1,12.99,4
+6,11,Sports,2,15.99,6
+6,12,Sports,4,19.99,8
+7,1,Netflix Originals,1,8.99,6
+7,2,Netflix Originals,2,12.99,3
+7,3,Netflix Originals,4,15.99,4
+7,4,Disney,1,19.99,5
+7,5,Disney,2,8.99,5
+7,6,Disney,4,12.99,6
+7,7,HBO,1,15.99,6
+7,8,HBO,2,19.99,2
+7,9,HBO,4,8.99,7
+7,10,Sports,1,12.99,5
+7,11,Sports,2,15.99,5
+7,12,Sports,4,19.99,3
+8,1,Netflix Originals,1,8.99,6
+8,2,Netflix Originals,2,12.99,5
+8,3,Netflix Originals,4,15.99,3
+8,4,Disney,1,19.99,5
+8,5,Disney,2,8.99,6
+8,6,Disney,4,12.99,7
+8,7,HBO,1,15.99,6
+8,8,HBO,2,19.99,3
+8,9,HBO,4,8.99,7
+8,10,Sports,1,12.99,5
+8,11,Sports,2,15.99,6
+8,12,Sports,4,19.99,6
+9,1,Netflix Originals,1,8.99,6
+9,2,Netflix Originals,2,12.99,5
+9,3,Netflix Originals,4,15.99,8
+9,4,Disney,1,19.99,5
+9,5,Disney,2,8.99,6
+9,6,Disney,4,12.99,6
+9,7,HBO,1,15.99,6
+9,8,HBO,2,19.99,4
+9,9,HBO,4,8.99,8
+9,10,Sports,1,12.99,5
+9,11,Sports,2,15.99,5
+9,12,Sports,4,19.99,4
+10,1,Netflix Originals,1,8.99,4
+10,2,Netflix Originals,2,12.99,3
+10,3,Netflix Originals,4,15.99,4
+10,4,Disney,1,19.99,4
+10,5,Disney,2,8.99,7
+10,6,Disney,4,12.99,7
+10,7,HBO,1,15.99,3
+10,8,HBO,2,19.99,3
+10,9,HBO,4,8.99,7
+10,10,Sports,1,12.99,5
+10,11,Sports,2,15.99,4
+10,12,Sports,4,19.99,8
+11,1,Netflix Originals,1,8.99,5
+11,2,Netflix Originals,2,12.99,7
+11,3,Netflix Originals,4,15.99,4
+11,4,Disney,1,19.99,6
+11,5,Disney,2,8.99,6
+11,6,Disney,4,12.99,7
+11,7,HBO,1,15.99,7
+11,8,HBO,2,19.99,5
+11,9,HBO,4,8.99,7
+11,10,Sports,1,12.99,5
+11,11,Sports,2,15.99,6
+11,12,Sports,4,19.99,5
+12,1,Netflix Originals,1,8.99,4
+12,2,Netflix Originals,2,12.99,5
+12,3,Netflix Originals,4,15.99,5
+12,4,Disney,1,19.99,6
+12,5,Disney,2,8.99,6
+12,6,Disney,4,12.99,6
+12,7,HBO,1,15.99,4
+12,8,HBO,2,19.99,5
+12,9,HBO,4,8.99,8
+12,10,Sports,1,12.99,7
+12,11,Sports,2,15.99,5
+12,12,Sports,4,19.99,6
+13,1,Netflix Originals,1,8.99,6
+13,2,Netflix Originals,2,12.99,3
+13,3,Netflix Originals,4,15.99,5
+13,4,Disney,1,19.99,6
+13,5,Disney,2,8.99,8
+13,6,Disney,4,12.99,10
+13,7,HBO,1,15.99,5
+13,8,HBO,2,19.99,5
+13,9,HBO,4,8.99,8
+13,10,Sports,1,12.99,8
+13,11,Sports,2,15.99,5
+13,12,Sports,4,19.99,7
+14,1,Netflix Originals,1,8.99,7
+14,2,Netflix Originals,2,12.99,3
+14,3,Netflix Originals,4,15.99,7
+14,4,Disney,1,19.99,3
+14,5,Disney,2,8.99,6
+14,6,Disney,4,12.99,7
+14,7,HBO,1,15.99,6
+14,8,HBO,2,19.99,4
+14,9,HBO,4,8.99,7
+14,10,Sports,1,12.99,5
+14,11,Sports,2,15.99,5
+14,12,Sports,4,19.99,6
+15,1,Netflix Originals,1,8.99,6
+15,2,Netflix Originals,2,12.99,5
+15,3,Netflix Originals,4,15.99,5
+15,4,Disney,1,19.99,6
+15,5,Disney,2,8.99,7
+15,6,Disney,4,12.99,7
+15,7,HBO,1,15.99,5
+15,8,HBO,2,19.99,6
+15,9,HBO,4,8.99,9
+15,10,Sports,1,12.99,6
+15,11,Sports,2,15.99,6
+15,12,Sports,4,19.99,7
+16,1,Netflix Originals,1,8.99,4
+16,2,Netflix Originals,2,12.99,4
+16,3,Netflix Originals,4,15.99,6
+16,4,Disney,1,19.99,6
+16,5,Disney,2,8.99,8
+16,6,Disney,4,12.99,8
+16,7,HBO,1,15.99,5
+16,8,HBO,2,19.99,5
+16,9,HBO,4,8.99,7
+16,10,Sports,1,12.99,5
+16,11,Sports,2,15.99,6
+16,12,Sports,4,19.99,6
+17,1,Netflix Originals,1,8.99,5
+17,2,Netflix Originals,2,12.99,3
+17,3,Netflix Originals,4,15.99,3
+17,4,Disney,1,19.99,3
+17,5,Disney,2,8.99,6
+17,6,Disney,4,12.99,7
+17,7,HBO,1,15.99,6
+17,8,HBO,2,19.99,5
+17,9,HBO,4,8.99,7
+17,10,Sports,1,12.99,5
+17,11,Sports,2,15.99,3
+17,12,Sports,4,19.99,4
+18,1,Netflix Originals,1,8.99,5
+18,2,Netflix Originals,2,12.99,5
+18,3,Netflix Originals,4,15.99,5
+18,4,Disney,1,19.99,4
+18,5,Disney,2,8.99,7
+18,6,Disney,4,12.99,8
+18,7,HBO,1,15.99,6
+18,8,HBO,2,19.99,6
+18,9,HBO,4,8.99,9
+18,10,Sports,1,12.99,5
+18,11,Sports,2,15.99,7
+18,12,Sports,4,19.99,5
+19,1,Netflix Originals,1,8.99,8
+19,2,Netflix Originals,2,12.99,6
+19,3,Netflix Originals,4,15.99,5
+19,4,Disney,1,19.99,5
+19,5,Disney,2,8.99,8
+19,6,Disney,4,12.99,6
+19,7,HBO,1,15.99,8
+19,8,HBO,2,19.99,6
+19,9,HBO,4,8.99,7
+19,10,Sports,1,12.99,4
+19,11,Sports,2,15.99,7
+19,12,Sports,4,19.99,6
+20,1,Netflix Originals,1,8.99,6
+20,2,Netflix Originals,2,12.99,6
+20,3,Netflix Originals,4,15.99,6
+20,4,Disney,1,19.99,4
+20,5,Disney,2,8.99,6
+20,6,Disney,4,12.99,8
+20,7,HBO,1,15.99,6
+20,8,HBO,2,19.99,5
+20,9,HBO,4,8.99,9
+20,10,Sports,1,12.99,6
+20,11,Sports,2,15.99,7
+20,12,Sports,4,19.99,6
+21,1,Netflix Originals,1,8.99,4
+21,2,Netflix Originals,2,12.99,5
+21,3,Netflix Originals,4,15.99,5
+21,4,Disney,1,19.99,6
+21,5,Disney,2,8.99,9
+21,6,Disney,4,12.99,10
+21,7,HBO,1,15.99,6
+21,8,HBO,2,19.99,8
+21,9,HBO,4,8.99,7
+21,10,Sports,1,12.99,5
+21,11,Sports,2,15.99,7
+21,12,Sports,4,19.99,7
+22,1,Netflix Originals,1,8.99,5
+22,2,Netflix Originals,2,12.99,6
+22,3,Netflix Originals,4,15.99,4
+22,4,Disney,1,19.99,4
+22,5,Disney,2,8.99,6
+22,6,Disney,4,12.99,5
+22,7,HBO,1,15.99,5
+22,8,HBO,2,19.99,4
+22,9,HBO,4,8.99,7
+22,10,Sports,1,12.99,3
+22,11,Sports,2,15.99,7
+22,12,Sports,4,19.99,4
+23,1,Netflix Originals,1,8.99,2
+23,2,Netflix Originals,2,12.99,3
+23,3,Netflix Originals,4,15.99,6
+23,4,Disney,1,19.99,6
+23,5,Disney,2,8.99,7
+23,6,Disney,4,12.99,7
+23,7,HBO,1,15.99,5
+23,8,HBO,2,19.99,8
+23,9,HBO,4,8.99,8
+23,10,Sports,1,12.99,5
+23,11,Sports,2,15.99,4
+23,12,Sports,4,19.99,3
+24,1,Netflix Originals,1,8.99,5
+24,2,Netflix Originals,2,12.99,4
+24,3,Netflix Originals,4,15.99,7
+24,4,Disney,1,19.99,6
+24,5,Disney,2,8.99,6
+24,6,Disney,4,12.99,7
+24,7,HBO,1,15.99,4
+24,8,HBO,2,19.99,3
+24,9,HBO,4,8.99,8
+24,10,Sports,1,12.99,7
+24,11,Sports,2,15.99,3
+24,12,Sports,4,19.99,6
+25,1,Netflix Originals,1,8.99,4
+25,2,Netflix Originals,2,12.99,4
+25,3,Netflix Originals,4,15.99,5
+25,4,Disney,1,19.99,5
+25,5,Disney,2,8.99,6
+25,6,Disney,4,12.99,6
+25,7,HBO,1,15.99,5
+25,8,HBO,2,19.99,3
+25,9,HBO,4,8.99,7
+25,10,Sports,1,12.99,4
+25,11,Sports,2,15.99,5
+25,12,Sports,4,19.99,3
+26,1,Netflix Originals,1,8.99,3
+26,2,Netflix Originals,2,12.99,3
+26,3,Netflix Originals,4,15.99,3
+26,4,Disney,1,19.99,3
+26,5,Disney,2,8.99,6
+26,6,Disney,4,12.99,5
+26,7,HBO,1,15.99,5
+26,8,HBO,2,19.99,2
+26,9,HBO,4,8.99,7
+26,10,Sports,1,12.99,5
+26,11,Sports,2,15.99,2
+26,12,Sports,4,19.99,3
+27,1,Netflix Originals,1,8.99,5
+27,2,Netflix Originals,2,12.99,5
+27,3,Netflix Originals,4,15.99,5
+27,4,Disney,1,19.99,5
+27,5,Disney,2,8.99,7
+27,6,Disney,4,12.99,8
+27,7,HBO,1,15.99,8
+27,8,HBO,2,19.99,6
+27,9,HBO,4,8.99,7
+27,10,Sports,1,12.99,7
+27,11,Sports,2,15.99,5
+27,12,Sports,4,19.99,3
+28,1,Netflix Originals,1,8.99,5
+28,2,Netflix Originals,2,12.99,6
+28,3,Netflix Originals,4,15.99,3
+28,4,Disney,1,19.99,4
+28,5,Disney,2,8.99,7
+28,6,Disney,4,12.99,6
+28,7,HBO,1,15.99,5
+28,8,HBO,2,19.99,6
+28,9,HBO,4,8.99,7
+28,10,Sports,1,12.99,5
+28,11,Sports,2,15.99,5
+28,12,Sports,4,19.99,3
+29,1,Netflix Originals,1,8.99,4
+29,2,Netflix Originals,2,12.99,5
+29,3,Netflix Originals,4,15.99,6
+29,4,Disney,1,19.99,6
+29,5,Disney,2,8.99,6
+29,6,Disney,4,12.99,8
+29,7,HBO,1,15.99,7
+29,8,HBO,2,19.99,6
+29,9,HBO,4,8.99,10
+29,10,Sports,1,12.99,5
+29,11,Sports,2,15.99,4
+29,12,Sports,4,19.99,4
+30,1,Netflix Originals,1,8.99,6
+30,2,Netflix Originals,2,12.99,6
+30,3,Netflix Originals,4,15.99,6
+30,4,Disney,1,19.99,6
+30,5,Disney,2,8.99,9
+30,6,Disney,4,12.99,10
+30,7,HBO,1,15.99,8
+30,8,HBO,2,19.99,5
+30,9,HBO,4,8.99,8
+30,10,Sports,1,12.99,6
+30,11,Sports,2,15.99,6
+30,12,Sports,4,19.99,8
+31,1,Netflix Originals,1,8.99,3
+31,2,Netflix Originals,2,12.99,4
+31,3,Netflix Originals,4,15.99,5
+31,4,Disney,1,19.99,4
+31,5,Disney,2,8.99,5
+31,6,Disney,4,12.99,6
+31,7,HBO,1,15.99,4
+31,8,HBO,2,19.99,1
+31,9,HBO,4,8.99,6
+31,10,Sports,1,12.99,4
+31,11,Sports,2,15.99,5
+31,12,Sports,4,19.99,5
+32,1,Netflix Originals,1,8.99,5
+32,2,Netflix Originals,2,12.99,5
+32,3,Netflix Originals,4,15.99,6
+32,4,Disney,1,19.99,5
+32,5,Disney,2,8.99,7
+32,6,Disney,4,12.99,8
+32,7,HBO,1,15.99,5
+32,8,HBO,2,19.99,7
+32,9,HBO,4,8.99,5
+32,10,Sports,1,12.99,8
+32,11,Sports,2,15.99,8
+32,12,Sports,4,19.99,4
+33,1,Netflix Originals,1,8.99,4
+33,2,Netflix Originals,2,12.99,4
+33,3,Netflix Originals,4,15.99,6
+33,4,Disney,1,19.99,3
+33,5,Disney,2,8.99,7
+33,6,Disney,4,12.99,7
+33,7,HBO,1,15.99,5
+33,8,HBO,2,19.99,5
+33,9,HBO,4,8.99,8
+33,10,Sports,1,12.99,5
+33,11,Sports,2,15.99,6
+33,12,Sports,4,19.99,4
+34,1,Netflix Originals,1,8.99,5
+34,2,Netflix Originals,2,12.99,3
+34,3,Netflix Originals,4,15.99,4
+34,4,Disney,1,19.99,6
+34,5,Disney,2,8.99,6
+34,6,Disney,4,12.99,9
+34,7,HBO,1,15.99,3
+34,8,HBO,2,19.99,7
+34,9,HBO,4,8.99,8
+34,10,Sports,1,12.99,6
+34,11,Sports,2,15.99,5
+34,12,Sports,4,19.99,6
+35,1,Netflix Originals,1,8.99,6
+35,2,Netflix Originals,2,12.99,5
+35,3,Netflix Originals,4,15.99,4
+35,4,Disney,1,19.99,5
+35,5,Disney,2,8.99,8
+35,6,Disney,4,12.99,7
+35,7,HBO,1,15.99,4
+35,8,HBO,2,19.99,5
+35,9,HBO,4,8.99,6
+35,10,Sports,1,12.99,6
+35,11,Sports,2,15.99,3
+35,12,Sports,4,19.99,6
+36,1,Netflix Originals,1,8.99,6
+36,2,Netflix Originals,2,12.99,4
+36,3,Netflix Originals,4,15.99,5
+36,4,Disney,1,19.99,4
+36,5,Disney,2,8.99,7
+36,6,Disney,4,12.99,5
+36,7,HBO,1,15.99,5
+36,8,HBO,2,19.99,4
+36,9,HBO,4,8.99,6
+36,10,Sports,1,12.99,7
+36,11,Sports,2,15.99,5
+36,12,Sports,4,19.99,8
+37,1,Netflix Originals,1,8.99,5
+37,2,Netflix Originals,2,12.99,6
+37,3,Netflix Originals,4,15.99,7
+37,4,Disney,1,19.99,5
+37,5,Disney,2,8.99,9
+37,6,Disney,4,12.99,9
+37,7,HBO,1,15.99,5
+37,8,HBO,2,19.99,6
+37,9,HBO,4,8.99,8
+37,10,Sports,1,12.99,7
+37,11,Sports,2,15.99,4
+37,12,Sports,4,19.99,5
+38,1,Netflix Originals,1,8.99,6
+38,2,Netflix Originals,2,12.99,5
+38,3,Netflix Originals,4,15.99,5
+38,4,Disney,1,19.99,3
+38,5,Disney,2,8.99,7
+38,6,Disney,4,12.99,7
+38,7,HBO,1,15.99,6
+38,8,HBO,2,19.99,4
+38,9,HBO,4,8.99,6
+38,10,Sports,1,12.99,6
+38,11,Sports,2,15.99,5
+38,12,Sports,4,19.99,6
+39,1,Netflix Originals,1,8.99,5
+39,2,Netflix Originals,2,12.99,6
+39,3,Netflix Originals,4,15.99,4
+39,4,Disney,1,19.99,5
+39,5,Disney,2,8.99,7
+39,6,Disney,4,12.99,8
+39,7,HBO,1,15.99,6
+39,8,HBO,2,19.99,6
+39,9,HBO,4,8.99,6
+39,10,Sports,1,12.99,5
+39,11,Sports,2,15.99,6
+39,12,Sports,4,19.99,5
+40,1,Netflix Originals,1,8.99,5
+40,2,Netflix Originals,2,12.99,6
+40,3,Netflix Originals,4,15.99,5
+40,4,Disney,1,19.99,4
+40,5,Disney,2,8.99,6
+40,6,Disney,4,12.99,7
+40,7,HBO,1,15.99,7
+40,8,HBO,2,19.99,6
+40,9,HBO,4,8.99,10
+40,10,Sports,1,12.99,6
+40,11,Sports,2,15.99,8
+40,12,Sports,4,19.99,6
+41,1,Netflix Originals,1,8.99,4
+41,2,Netflix Originals,2,12.99,4
+41,3,Netflix Originals,4,15.99,5
+41,4,Disney,1,19.99,4
+41,5,Disney,2,8.99,8
+41,6,Disney,4,12.99,9
+41,7,HBO,1,15.99,5
+41,8,HBO,2,19.99,4
+41,9,HBO,4,8.99,7
+41,10,Sports,1,12.99,5
+41,11,Sports,2,15.99,7
+41,12,Sports,4,19.99,5
+42,1,Netflix Originals,1,8.99,4
+42,2,Netflix Originals,2,12.99,3
+42,3,Netflix Originals,4,15.99,3
+42,4,Disney,1,19.99,4
+42,5,Disney,2,8.99,7
+42,6,Disney,4,12.99,9
+42,7,HBO,1,15.99,5
+42,8,HBO,2,19.99,5
+42,9,HBO,4,8.99,7
+42,10,Sports,1,12.99,6
+42,11,Sports,2,15.99,7
+42,12,Sports,4,19.99,4
+43,1,Netflix Originals,1,8.99,5
+43,2,Netflix Originals,2,12.99,6
+43,3,Netflix Originals,4,15.99,6
+43,4,Disney,1,19.99,6
+43,5,Disney,2,8.99,8
+43,6,Disney,4,12.99,7
+43,7,HBO,1,15.99,6
+43,8,HBO,2,19.99,6
+43,9,HBO,4,8.99,6
+43,10,Sports,1,12.99,6
+43,11,Sports,2,15.99,6
+43,12,Sports,4,19.99,5
+44,1,Netflix Originals,1,8.99,6
+44,2,Netflix Originals,2,12.99,8
+44,3,Netflix Originals,4,15.99,6
+44,4,Disney,1,19.99,6
+44,5,Disney,2,8.99,9
+44,6,Disney,4,12.99,9
+44,7,HBO,1,15.99,5
+44,8,HBO,2,19.99,6
+44,9,HBO,4,8.99,9
+44,10,Sports,1,12.99,5
+44,11,Sports,2,15.99,6
+44,12,Sports,4,19.99,5
+45,1,Netflix Originals,1,8.99,3
+45,2,Netflix Originals,2,12.99,6
+45,3,Netflix Originals,4,15.99,6
+45,4,Disney,1,19.99,3
+45,5,Disney,2,8.99,8
+45,6,Disney,4,12.99,7
+45,7,HBO,1,15.99,6
+45,8,HBO,2,19.99,4
+45,9,HBO,4,8.99,8
+45,10,Sports,1,12.99,6
+45,11,Sports,2,15.99,7
+45,12,Sports,4,19.99,7
+46,1,Netflix Originals,1,8.99,4
+46,2,Netflix Originals,2,12.99,6
+46,3,Netflix Originals,4,15.99,4
+46,4,Disney,1,19.99,5
+46,5,Disney,2,8.99,7
+46,6,Disney,4,12.99,6
+46,7,HBO,1,15.99,5
+46,8,HBO,2,19.99,6
+46,9,HBO,4,8.99,7
+46,10,Sports,1,12.99,6
+46,11,Sports,2,15.99,4
+46,12,Sports,4,19.99,6
+47,1,Netflix Originals,1,8.99,3
+47,2,Netflix Originals,2,12.99,5
+47,3,Netflix Originals,4,15.99,2
+47,4,Disney,1,19.99,3
+47,5,Disney,2,8.99,8
+47,6,Disney,4,12.99,8
+47,7,HBO,1,15.99,5
+47,8,HBO,2,19.99,3
+47,9,HBO,4,8.99,7
+47,10,Sports,1,12.99,5
+47,11,Sports,2,15.99,3
+47,12,Sports,4,19.99,5
+48,1,Netflix Originals,1,8.99,7
+48,2,Netflix Originals,2,12.99,5
+48,3,Netflix Originals,4,15.99,4
+48,4,Disney,1,19.99,6
+48,5,Disney,2,8.99,8
+48,6,Disney,4,12.99,8
+48,7,HBO,1,15.99,5
+48,8,HBO,2,19.99,4
+48,9,HBO,4,8.99,8
+48,10,Sports,1,12.99,6
+48,11,Sports,2,15.99,6
+48,12,Sports,4,19.99,6
+49,1,Netflix Originals,1,8.99,5
+49,2,Netflix Originals,2,12.99,6
+49,3,Netflix Originals,4,15.99,6
+49,4,Disney,1,19.99,5
+49,5,Disney,2,8.99,7
+49,6,Disney,4,12.99,8
+49,7,HBO,1,15.99,8
+49,8,HBO,2,19.99,8
+49,9,HBO,4,8.99,8
+49,10,Sports,1,12.99,6
+49,11,Sports,2,15.99,7
+49,12,Sports,4,19.99,6
+50,1,Netflix Originals,1,8.99,5
+50,2,Netflix Originals,2,12.99,6
+50,3,Netflix Originals,4,15.99,6
+50,4,Disney,1,19.99,3
+50,5,Disney,2,8.99,8
+50,6,Disney,4,12.99,7
+50,7,HBO,1,15.99,4
+50,8,HBO,2,19.99,5
+50,9,HBO,4,8.99,7
+50,10,Sports,1,12.99,4
+50,11,Sports,2,15.99,6
+50,12,Sports,4,19.99,5
+51,1,Netflix Originals,1,8.99,4
+51,2,Netflix Originals,2,12.99,5
+51,3,Netflix Originals,4,15.99,2
+51,4,Disney,1,19.99,6
+51,5,Disney,2,8.99,5
+51,6,Disney,4,12.99,6
+51,7,HBO,1,15.99,4
+51,8,HBO,2,19.99,3
+51,9,HBO,4,8.99,8
+51,10,Sports,1,12.99,5
+51,11,Sports,2,15.99,6
+51,12,Sports,4,19.99,5
+52,1,Netflix Originals,1,8.99,5
+52,2,Netflix Originals,2,12.99,5
+52,3,Netflix Originals,4,15.99,5
+52,4,Disney,1,19.99,7
+52,5,Disney,2,8.99,7
+52,6,Disney,4,12.99,7
+52,7,HBO,1,15.99,7
+52,8,HBO,2,19.99,5
+52,9,HBO,4,8.99,6
+52,10,Sports,1,12.99,6
+52,11,Sports,2,15.99,6
+52,12,Sports,4,19.99,5
+53,1,Netflix Originals,1,8.99,2
+53,2,Netflix Originals,2,12.99,8
+53,3,Netflix Originals,4,15.99,5
+53,4,Disney,1,19.99,6
+53,5,Disney,2,8.99,6
+53,6,Disney,4,12.99,8
+53,7,HBO,1,15.99,5
+53,8,HBO,2,19.99,5
+53,9,HBO,4,8.99,9
+53,10,Sports,1,12.99,6
+53,11,Sports,2,15.99,6
+53,12,Sports,4,19.99,6
+54,1,Netflix Originals,1,8.99,6
+54,2,Netflix Originals,2,12.99,4
+54,3,Netflix Originals,4,15.99,7
+54,4,Disney,1,19.99,4
+54,5,Disney,2,8.99,8
+54,6,Disney,4,12.99,7
+54,7,HBO,1,15.99,6
+54,8,HBO,2,19.99,6
+54,9,HBO,4,8.99,8
+54,10,Sports,1,12.99,7
+54,11,Sports,2,15.99,8
+54,12,Sports,4,19.99,7
+55,1,Netflix Originals,1,8.99,5
+55,2,Netflix Originals,2,12.99,5
+55,3,Netflix Originals,4,15.99,6
+55,4,Disney,1,19.99,4
+55,5,Disney,2,8.99,6
+55,6,Disney,4,12.99,9
+55,7,HBO,1,15.99,5
+55,8,HBO,2,19.99,4
+55,9,HBO,4,8.99,5
+55,10,Sports,1,12.99,4
+55,11,Sports,2,15.99,4
+55,12,Sports,4,19.99,6
+56,1,Netflix Originals,1,8.99,7
+56,2,Netflix Originals,2,12.99,9
+56,3,Netflix Originals,4,15.99,6
+56,4,Disney,1,19.99,5
+56,5,Disney,2,8.99,8
+56,6,Disney,4,12.99,8
+56,7,HBO,1,15.99,7
+56,8,HBO,2,19.99,6
+56,9,HBO,4,8.99,8
+56,10,Sports,1,12.99,7
+56,11,Sports,2,15.99,5
+56,12,Sports,4,19.99,4
+57,1,Netflix Originals,1,8.99,5
+57,2,Netflix Originals,2,12.99,4
+57,3,Netflix Originals,4,15.99,4
+57,4,Disney,1,19.99,4
+57,5,Disney,2,8.99,5
+57,6,Disney,4,12.99,7
+57,7,HBO,1,15.99,2
+57,8,HBO,2,19.99,3
+57,9,HBO,4,8.99,7
+57,10,Sports,1,12.99,3
+57,11,Sports,2,15.99,4
+57,12,Sports,4,19.99,4
+58,1,Netflix Originals,1,8.99,5
+58,2,Netflix Originals,2,12.99,5
+58,3,Netflix Originals,4,15.99,4
+58,4,Disney,1,19.99,7
+58,5,Disney,2,8.99,6
+58,6,Disney,4,12.99,7
+58,7,HBO,1,15.99,5
+58,8,HBO,2,19.99,6
+58,9,HBO,4,8.99,8
+58,10,Sports,1,12.99,7
+58,11,Sports,2,15.99,5
+58,12,Sports,4,19.99,6
+59,1,Netflix Originals,1,8.99,4
+59,2,Netflix Originals,2,12.99,6
+59,3,Netflix Originals,4,15.99,7
+59,4,Disney,1,19.99,4
+59,5,Disney,2,8.99,6
+59,6,Disney,4,12.99,7
+59,7,HBO,1,15.99,7
+59,8,HBO,2,19.99,4
+59,9,HBO,4,8.99,8
+59,10,Sports,1,12.99,7
+59,11,Sports,2,15.99,5
+59,12,Sports,4,19.99,5
+60,1,Netflix Originals,1,8.99,6
+60,2,Netflix Originals,2,12.99,4
+60,3,Netflix Originals,4,15.99,6
+60,4,Disney,1,19.99,6
+60,5,Disney,2,8.99,5
+60,6,Disney,4,12.99,8
+60,7,HBO,1,15.99,7
+60,8,HBO,2,19.99,4
+60,9,HBO,4,8.99,9
+60,10,Sports,1,12.99,6
+60,11,Sports,2,15.99,5
+60,12,Sports,4,19.99,5
+61,1,Netflix Originals,1,8.99,7
+61,2,Netflix Originals,2,12.99,6
+61,3,Netflix Originals,4,15.99,5
+61,4,Disney,1,19.99,4
+61,5,Disney,2,8.99,7
+61,6,Disney,4,12.99,8
+61,7,HBO,1,15.99,6
+61,8,HBO,2,19.99,7
+61,9,HBO,4,8.99,8
+61,10,Sports,1,12.99,5
+61,11,Sports,2,15.99,5
+61,12,Sports,4,19.99,4
+62,1,Netflix Originals,1,8.99,5
+62,2,Netflix Originals,2,12.99,7
+62,3,Netflix Originals,4,15.99,4
+62,4,Disney,1,19.99,5
+62,5,Disney,2,8.99,7
+62,6,Disney,4,12.99,7
+62,7,HBO,1,15.99,6
+62,8,HBO,2,19.99,4
+62,9,HBO,4,8.99,7
+62,10,Sports,1,12.99,5
+62,11,Sports,2,15.99,4
+62,12,Sports,4,19.99,4
+63,1,Netflix Originals,1,8.99,6
+63,2,Netflix Originals,2,12.99,7
+63,3,Netflix Originals,4,15.99,6
+63,4,Disney,1,19.99,4
+63,5,Disney,2,8.99,5
+63,6,Disney,4,12.99,6
+63,7,HBO,1,15.99,5
+63,8,HBO,2,19.99,4
+63,9,HBO,4,8.99,7
+63,10,Sports,1,12.99,5
+63,11,Sports,2,15.99,6
+63,12,Sports,4,19.99,5
+64,1,Netflix Originals,1,8.99,5
+64,2,Netflix Originals,2,12.99,7
+64,3,Netflix Originals,4,15.99,5
+64,4,Disney,1,19.99,5
+64,5,Disney,2,8.99,7
+64,6,Disney,4,12.99,7
+64,7,HBO,1,15.99,5
+64,8,HBO,2,19.99,5
+64,9,HBO,4,8.99,7
+64,10,Sports,1,12.99,5
+64,11,Sports,2,15.99,6
+64,12,Sports,4,19.99,6
+65,1,Netflix Originals,1,8.99,6
+65,2,Netflix Originals,2,12.99,4
+65,3,Netflix Originals,4,15.99,2
+65,4,Disney,1,19.99,4
+65,5,Disney,2,8.99,7
+65,6,Disney,4,12.99,5
+65,7,HBO,1,15.99,5
+65,8,HBO,2,19.99,4
+65,9,HBO,4,8.99,7
+65,10,Sports,1,12.99,6
+65,11,Sports,2,15.99,4
+65,12,Sports,4,19.99,7
+66,1,Netflix Originals,1,8.99,6
+66,2,Netflix Originals,2,12.99,5
+66,3,Netflix Originals,4,15.99,4
+66,4,Disney,1,19.99,5
+66,5,Disney,2,8.99,6
+66,6,Disney,4,12.99,9
+66,7,HBO,1,15.99,5
+66,8,HBO,2,19.99,3
+66,9,HBO,4,8.99,9
+66,10,Sports,1,12.99,5
+66,11,Sports,2,15.99,5
+66,12,Sports,4,19.99,5
+67,1,Netflix Originals,1,8.99,6
+67,2,Netflix Originals,2,12.99,5
+67,3,Netflix Originals,4,15.99,5
+67,4,Disney,1,19.99,7
+67,5,Disney,2,8.99,8
+67,6,Disney,4,12.99,7
+67,7,HBO,1,15.99,6
+67,8,HBO,2,19.99,7
+67,9,HBO,4,8.99,8
+67,10,Sports,1,12.99,7
+67,11,Sports,2,15.99,5
+67,12,Sports,4,19.99,4
+68,1,Netflix Originals,1,8.99,6
+68,2,Netflix Originals,2,12.99,7
+68,3,Netflix Originals,4,15.99,7
+68,4,Disney,1,19.99,6
+68,5,Disney,2,8.99,8
+68,6,Disney,4,12.99,10
+68,7,HBO,1,15.99,5
+68,8,HBO,2,19.99,5
+68,9,HBO,4,8.99,7
+68,10,Sports,1,12.99,5
+68,11,Sports,2,15.99,8
+68,12,Sports,4,19.99,5
+69,1,Netflix Originals,1,8.99,6
+69,2,Netflix Originals,2,12.99,6
+69,3,Netflix Originals,4,15.99,6
+69,4,Disney,1,19.99,5
+69,5,Disney,2,8.99,8
+69,6,Disney,4,12.99,7
+69,7,HBO,1,15.99,4
+69,8,HBO,2,19.99,5
+69,9,HBO,4,8.99,6
+69,10,Sports,1,12.99,5
+69,11,Sports,2,15.99,6
+69,12,Sports,4,19.99,6
+70,1,Netflix Originals,1,8.99,6
+70,2,Netflix Originals,2,12.99,6
+70,3,Netflix Originals,4,15.99,5
+70,4,Disney,1,19.99,4
+70,5,Disney,2,8.99,8
+70,6,Disney,4,12.99,6
+70,7,HBO,1,15.99,5
+70,8,HBO,2,19.99,7
+70,9,HBO,4,8.99,10
+70,10,Sports,1,12.99,5
+70,11,Sports,2,15.99,5
+70,12,Sports,4,19.99,6
+71,1,Netflix Originals,1,8.99,5
+71,2,Netflix Originals,2,12.99,6
+71,3,Netflix Originals,4,15.99,6
+71,4,Disney,1,19.99,7
+71,5,Disney,2,8.99,7
+71,6,Disney,4,12.99,8
+71,7,HBO,1,15.99,7
+71,8,HBO,2,19.99,4
+71,9,HBO,4,8.99,6
+71,10,Sports,1,12.99,4
+71,11,Sports,2,15.99,7
+71,12,Sports,4,19.99,5
+72,1,Netflix Originals,1,8.99,7
+72,2,Netflix Originals,2,12.99,7
+72,3,Netflix Originals,4,15.99,6
+72,4,Disney,1,19.99,6
+72,5,Disney,2,8.99,9
+72,6,Disney,4,12.99,9
+72,7,HBO,1,15.99,8
+72,8,HBO,2,19.99,8
+72,9,HBO,4,8.99,9
+72,10,Sports,1,12.99,9
+72,11,Sports,2,15.99,7
+72,12,Sports,4,19.99,7
+73,1,Netflix Originals,1,8.99,5
+73,2,Netflix Originals,2,12.99,5
+73,3,Netflix Originals,4,15.99,4
+73,4,Disney,1,19.99,4
+73,5,Disney,2,8.99,8
+73,6,Disney,4,12.99,8
+73,7,HBO,1,15.99,7
+73,8,HBO,2,19.99,5
+73,9,HBO,4,8.99,6
+73,10,Sports,1,12.99,5
+73,11,Sports,2,15.99,4
+73,12,Sports,4,19.99,5
+74,1,Netflix Originals,1,8.99,7
+74,2,Netflix Originals,2,12.99,3
+74,3,Netflix Originals,4,15.99,4
+74,4,Disney,1,19.99,5
+74,5,Disney,2,8.99,6
+74,6,Disney,4,12.99,6
+74,7,HBO,1,15.99,5
+74,8,HBO,2,19.99,6
+74,9,HBO,4,8.99,6
+74,10,Sports,1,12.99,4
+74,11,Sports,2,15.99,4
+74,12,Sports,4,19.99,4
+75,1,Netflix Originals,1,8.99,6
+75,2,Netflix Originals,2,12.99,6
+75,3,Netflix Originals,4,15.99,4
+75,4,Disney,1,19.99,4
+75,5,Disney,2,8.99,8
+75,6,Disney,4,12.99,5
+75,7,HBO,1,15.99,5
+75,8,HBO,2,19.99,6
+75,9,HBO,4,8.99,6
+75,10,Sports,1,12.99,5
+75,11,Sports,2,15.99,4
+75,12,Sports,4,19.99,4
+76,1,Netflix Originals,1,8.99,5
+76,2,Netflix Originals,2,12.99,6
+76,3,Netflix Originals,4,15.99,5
+76,4,Disney,1,19.99,4
+76,5,Disney,2,8.99,5
+76,6,Disney,4,12.99,7
+76,7,HBO,1,15.99,4
+76,8,HBO,2,19.99,2
+76,9,HBO,4,8.99,8
+76,10,Sports,1,12.99,6
+76,11,Sports,2,15.99,2
+76,12,Sports,4,19.99,4
+77,1,Netflix Originals,1,8.99,4
+77,2,Netflix Originals,2,12.99,5
+77,3,Netflix Originals,4,15.99,7
+77,4,Disney,1,19.99,6
+77,5,Disney,2,8.99,8
+77,6,Disney,4,12.99,8
+77,7,HBO,1,15.99,4
+77,8,HBO,2,19.99,6
+77,9,HBO,4,8.99,8
+77,10,Sports,1,12.99,5
+77,11,Sports,2,15.99,8
+77,12,Sports,4,19.99,6
+78,1,Netflix Originals,1,8.99,4
+78,2,Netflix Originals,2,12.99,5
+78,3,Netflix Originals,4,15.99,6
+78,4,Disney,1,19.99,5
+78,5,Disney,2,8.99,7
+78,6,Disney,4,12.99,6
+78,7,HBO,1,15.99,5
+78,8,HBO,2,19.99,6
+78,9,HBO,4,8.99,7
+78,10,Sports,1,12.99,4
+78,11,Sports,2,15.99,4
+78,12,Sports,4,19.99,6
+79,1,Netflix Originals,1,8.99,7
+79,2,Netflix Originals,2,12.99,7
+79,3,Netflix Originals,4,15.99,9
+79,4,Disney,1,19.99,6
+79,5,Disney,2,8.99,8
+79,6,Disney,4,12.99,8
+79,7,HBO,1,15.99,6
+79,8,HBO,2,19.99,6
+79,9,HBO,4,8.99,8
+79,10,Sports,1,12.99,7
+79,11,Sports,2,15.99,8
+79,12,Sports,4,19.99,6
+80,1,Netflix Originals,1,8.99,6
+80,2,Netflix Originals,2,12.99,6
+80,3,Netflix Originals,4,15.99,5
+80,4,Disney,1,19.99,5
+80,5,Disney,2,8.99,7
+80,6,Disney,4,12.99,7
+80,7,HBO,1,15.99,7
+80,8,HBO,2,19.99,5
+80,9,HBO,4,8.99,9
+80,10,Sports,1,12.99,7
+80,11,Sports,2,15.99,6
+80,12,Sports,4,19.99,5
+81,1,Netflix Originals,1,8.99,5
+81,2,Netflix Originals,2,12.99,5
+81,3,Netflix Originals,4,15.99,5
+81,4,Disney,1,19.99,6
+81,5,Disney,2,8.99,5
+81,6,Disney,4,12.99,8
+81,7,HBO,1,15.99,7
+81,8,HBO,2,19.99,4
+81,9,HBO,4,8.99,7
+81,10,Sports,1,12.99,6
+81,11,Sports,2,15.99,5
+81,12,Sports,4,19.99,6
+82,1,Netflix Originals,1,8.99,6
+82,2,Netflix Originals,2,12.99,6
+82,3,Netflix Originals,4,15.99,3
+82,4,Disney,1,19.99,6
+82,5,Disney,2,8.99,7
+82,6,Disney,4,12.99,8
+82,7,HBO,1,15.99,6
+82,8,HBO,2,19.99,5
+82,9,HBO,4,8.99,9
+82,10,Sports,1,12.99,6
+82,11,Sports,2,15.99,6
+82,12,Sports,4,19.99,5
+83,1,Netflix Originals,1,8.99,5
+83,2,Netflix Originals,2,12.99,5
+83,3,Netflix Originals,4,15.99,6
+83,4,Disney,1,19.99,6
+83,5,Disney,2,8.99,6
+83,6,Disney,4,12.99,7
+83,7,HBO,1,15.99,5
+83,8,HBO,2,19.99,6
+83,9,HBO,4,8.99,9
+83,10,Sports,1,12.99,6
+83,11,Sports,2,15.99,6
+83,12,Sports,4,19.99,6
+84,1,Netflix Originals,1,8.99,5
+84,2,Netflix Originals,2,12.99,4
+84,3,Netflix Originals,4,15.99,5
+84,4,Disney,1,19.99,7
+84,5,Disney,2,8.99,7
+84,6,Disney,4,12.99,9
+84,7,HBO,1,15.99,7
+84,8,HBO,2,19.99,7
+84,9,HBO,4,8.99,10
+84,10,Sports,1,12.99,7
+84,11,Sports,2,15.99,6
+84,12,Sports,4,19.99,5
+85,1,Netflix Originals,1,8.99,5
+85,2,Netflix Originals,2,12.99,4
+85,3,Netflix Originals,4,15.99,4
+85,4,Disney,1,19.99,4
+85,5,Disney,2,8.99,7
+85,6,Disney,4,12.99,6
+85,7,HBO,1,15.99,6
+85,8,HBO,2,19.99,4
+85,9,HBO,4,8.99,8
+85,10,Sports,1,12.99,4
+85,11,Sports,2,15.99,6
+85,12,Sports,4,19.99,5
+86,1,Netflix Originals,1,8.99,4
+86,2,Netflix Originals,2,12.99,4
+86,3,Netflix Originals,4,15.99,3
+86,4,Disney,1,19.99,3
+86,5,Disney,2,8.99,8
+86,6,Disney,4,12.99,6
+86,7,HBO,1,15.99,6
+86,8,HBO,2,19.99,4
+86,9,HBO,4,8.99,5
+86,10,Sports,1,12.99,3
+86,11,Sports,2,15.99,3
+86,12,Sports,4,19.99,2
+87,1,Netflix Originals,1,8.99,4
+87,2,Netflix Originals,2,12.99,3
+87,3,Netflix Originals,4,15.99,5
+87,4,Disney,1,19.99,5
+87,5,Disney,2,8.99,6
+87,6,Disney,4,12.99,8
+87,7,HBO,1,15.99,5
+87,8,HBO,2,19.99,4
+87,9,HBO,4,8.99,6
+87,10,Sports,1,12.99,6
+87,11,Sports,2,15.99,6
+87,12,Sports,4,19.99,4
+88,1,Netflix Originals,1,8.99,5
+88,2,Netflix Originals,2,12.99,6
+88,3,Netflix Originals,4,15.99,6
+88,4,Disney,1,19.99,5
+88,5,Disney,2,8.99,8
+88,6,Disney,4,12.99,6
+88,7,HBO,1,15.99,5
+88,8,HBO,2,19.99,6
+88,9,HBO,4,8.99,8
+88,10,Sports,1,12.99,5
+88,11,Sports,2,15.99,7
+88,12,Sports,4,19.99,5
+89,1,Netflix Originals,1,8.99,5
+89,2,Netflix Originals,2,12.99,6
+89,3,Netflix Originals,4,15.99,6
+89,4,Disney,1,19.99,6
+89,5,Disney,2,8.99,8
+89,6,Disney,4,12.99,9
+89,7,HBO,1,15.99,4
+89,8,HBO,2,19.99,7
+89,9,HBO,4,8.99,6
+89,10,Sports,1,12.99,8
+89,11,Sports,2,15.99,7
+89,12,Sports,4,19.99,6
+90,1,Netflix Originals,1,8.99,3
+90,2,Netflix Originals,2,12.99,5
+90,3,Netflix Originals,4,15.99,6
+90,4,Disney,1,19.99,6
+90,5,Disney,2,8.99,5
+90,6,Disney,4,12.99,7
+90,7,HBO,1,15.99,5
+90,8,HBO,2,19.99,5
+90,9,HBO,4,8.99,7
+90,10,Sports,1,12.99,6
+90,11,Sports,2,15.99,5
+90,12,Sports,4,19.99,5
+91,1,Netflix Originals,1,8.99,5
+91,2,Netflix Originals,2,12.99,6
+91,3,Netflix Originals,4,15.99,5
+91,4,Disney,1,19.99,6
+91,5,Disney,2,8.99,8
+91,6,Disney,4,12.99,7
+91,7,HBO,1,15.99,6
+91,8,HBO,2,19.99,4
+91,9,HBO,4,8.99,6
+91,10,Sports,1,12.99,4
+91,11,Sports,2,15.99,6
+91,12,Sports,4,19.99,7
+92,1,Netflix Originals,1,8.99,4
+92,2,Netflix Originals,2,12.99,7
+92,3,Netflix Originals,4,15.99,5
+92,4,Disney,1,19.99,6
+92,5,Disney,2,8.99,10
+92,6,Disney,4,12.99,7
+92,7,HBO,1,15.99,4
+92,8,HBO,2,19.99,6
+92,9,HBO,4,8.99,9
+92,10,Sports,1,12.99,8
+92,11,Sports,2,15.99,4
+92,12,Sports,4,19.99,6
+93,1,Netflix Originals,1,8.99,4
+93,2,Netflix Originals,2,12.99,5
+93,3,Netflix Originals,4,15.99,5
+93,4,Disney,1,19.99,5
+93,5,Disney,2,8.99,6
+93,6,Disney,4,12.99,8
+93,7,HBO,1,15.99,6
+93,8,HBO,2,19.99,7
+93,9,HBO,4,8.99,8
+93,10,Sports,1,12.99,3
+93,11,Sports,2,15.99,6
+93,12,Sports,4,19.99,4
+94,1,Netflix Originals,1,8.99,5
+94,2,Netflix Originals,2,12.99,6
+94,3,Netflix Originals,4,15.99,6
+94,4,Disney,1,19.99,4
+94,5,Disney,2,8.99,7
+94,6,Disney,4,12.99,7
+94,7,HBO,1,15.99,5
+94,8,HBO,2,19.99,7
+94,9,HBO,4,8.99,8
+94,10,Sports,1,12.99,1
+94,11,Sports,2,15.99,6
+94,12,Sports,4,19.99,5
+95,1,Netflix Originals,1,8.99,6
+95,2,Netflix Originals,2,12.99,5
+95,3,Netflix Originals,4,15.99,5
+95,4,Disney,1,19.99,5
+95,5,Disney,2,8.99,7
+95,6,Disney,4,12.99,6
+95,7,HBO,1,15.99,6
+95,8,HBO,2,19.99,6
+95,9,HBO,4,8.99,8
+95,10,Sports,1,12.99,6
+95,11,Sports,2,15.99,6
+95,12,Sports,4,19.99,6
+96,1,Netflix Originals,1,8.99,4
+96,2,Netflix Originals,2,12.99,5
+96,3,Netflix Originals,4,15.99,5
+96,4,Disney,1,19.99,4
+96,5,Disney,2,8.99,8
+96,6,Disney,4,12.99,8
+96,7,HBO,1,15.99,4
+96,8,HBO,2,19.99,4
+96,9,HBO,4,8.99,6
+96,10,Sports,1,12.99,5
+96,11,Sports,2,15.99,6
+96,12,Sports,4,19.99,5
+97,1,Netflix Originals,1,8.99,5
+97,2,Netflix Originals,2,12.99,7
+97,3,Netflix Originals,4,15.99,6
+97,4,Disney,1,19.99,3
+97,5,Disney,2,8.99,6
+97,6,Disney,4,12.99,8
+97,7,HBO,1,15.99,4
+97,8,HBO,2,19.99,5
+97,9,HBO,4,8.99,8
+97,10,Sports,1,12.99,6
+97,11,Sports,2,15.99,7
+97,12,Sports,4,19.99,4
+98,1,Netflix Originals,1,8.99,5
+98,2,Netflix Originals,2,12.99,5
+98,3,Netflix Originals,4,15.99,4
+98,4,Disney,1,19.99,5
+98,5,Disney,2,8.99,7
+98,6,Disney,4,12.99,6
+98,7,HBO,1,15.99,4
+98,8,HBO,2,19.99,4
+98,9,HBO,4,8.99,5
+98,10,Sports,1,12.99,4
+98,11,Sports,2,15.99,4
+98,12,Sports,4,19.99,6
+99,1,Netflix Originals,1,8.99,5
+99,2,Netflix Originals,2,12.99,7
+99,3,Netflix Originals,4,15.99,6
+99,4,Disney,1,19.99,5
+99,5,Disney,2,8.99,9
+99,6,Disney,4,12.99,7
+99,7,HBO,1,15.99,6
+99,8,HBO,2,19.99,4
+99,9,HBO,4,8.99,7
+99,10,Sports,1,12.99,6
+99,11,Sports,2,15.99,7
+99,12,Sports,4,19.99,4
+100,1,Netflix Originals,1,8.99,4
+100,2,Netflix Originals,2,12.99,5
+100,3,Netflix Originals,4,15.99,5
+100,4,Disney,1,19.99,5
+100,5,Disney,2,8.99,7
+100,6,Disney,4,12.99,5
+100,7,HBO,1,15.99,6
+100,8,HBO,2,19.99,4
+100,9,HBO,4,8.99,8
+100,10,Sports,1,12.99,3
+100,11,Sports,2,15.99,2
+100,12,Sports,4,19.99,5
