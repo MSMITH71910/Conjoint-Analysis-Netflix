@@ -25,6 +25,35 @@ A comprehensive conjoint analysis implementation using **real Netflix customer s
 - **Model Performance**: R² = 0.075, highly significant (p < 0.001)
 - **Strong Statistical Significance**: All key coefficients significant
 
+## 🎯 Live Results Preview
+
+### Sample Output from Real Data Analysis
+```
+Netflix Real Data Conjoint Analysis
+==================================================
+Dataset shape: (3000, 6)
+Number of customers: 311
+Total responses: 3000
+Selection rate: 0.498
+
+Part-Worth Utilities:
+NumberAccounts: 0.0453 (each additional account adds significant value)
+Price: -0.0159 (moderate price sensitivity)
+
+Content Utilities (relative to Disney baseline):
+  Disney: 0.0000 (baseline - strong performer)
+  HBO: 0.0048 (slight preference over Disney)
+  Marvel: -0.0221 (slight negative)
+  Soccer: -0.1028 (moderate negative)
+  less content: -0.1857 (strong negative)
+
+Relative Importance:
+  NumberAccounts: 30.6% (most important factor)
+  Price: 25.7% (second most important)
+  Content: 25.7% (tied for second)
+  Ads: 18.0% (least important but significant)
+```
+
 ## 🚀 Quick Start
 
 ### Installation
@@ -167,16 +196,32 @@ Conjoint-Analysis-Netflix/
 - **Use pricing insights** for market entry
 - **Family plan emphasis** across cultures
 
-## 📊 Visualizations
+## 📊 Results & Visualizations
 
-The analysis generates comprehensive visualizations:
+### Main Analysis Dashboard (Real Data)
+The comprehensive 12-panel dashboard showing all key insights:
 
+![Netflix Real Data Analysis Dashboard](netflix_real_data_analysis.png)
+
+*This dashboard includes: selection rates by attribute, part-worth utilities, relative importance, price sensitivity curves, heatmaps, and model performance metrics.*
+
+### Attribute Importance Analysis
+Relative importance of each attribute in customer decision-making:
+
+![Relative Importance](relative_importance.png)
+
+### Comparison Analysis (Simulated vs Real Data)
+Part-worth utilities and model comparison:
+
+![Conjoint Analysis Results](conjoint_analysis_results.png)
+
+### Key Visualizations Include:
 1. **Selection rates** by each attribute level
-2. **Part-worth utilities** for all attributes
-3. **Relative importance** breakdown
-4. **Price sensitivity curves**
+2. **Part-worth utilities** for all attributes  
+3. **Relative importance** breakdown (30.6% Accounts, 25.7% Price/Content, 18.0% Ads)
+4. **Price sensitivity curves** showing optimal $15-$18 range
 5. **Heatmaps** showing attribute interactions
-6. **Model performance metrics**
+6. **Model performance metrics** (R² = 0.075, highly significant)
 
 ## 🔧 Customization
 
